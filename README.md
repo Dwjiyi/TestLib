@@ -1,4 +1,5 @@
 # TestLib
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/Dwjiyi/TestLib.svg?style=flat)](https://travis-ci.org/Dwjiyi/TestLib)
 [![Version](https://img.shields.io/cocoapods/v/TestLib.svg?style=flat)](https://cocoapods.org/pods/TestLib)
@@ -27,3 +28,6 @@ Dwjiyi, 690293080@qq.com
 ## License
 
 TestLib is available under the MIT license. See the LICENSE file for more info.
+=======
+测试pod库
+>>>>>>> c03571c702c8fcd5374299465e8122623b932bc7

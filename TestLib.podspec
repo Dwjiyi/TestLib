@@ -20,11 +20,12 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
-
+  # 主页
   s.homepage         = 'https://github.com/Dwjiyi/TestLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Dwjiyi' => '690293080@qq.com' }
+  # source路径
   s.source           = { :git => 'https://github.com/Dwjiyi/TestLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
